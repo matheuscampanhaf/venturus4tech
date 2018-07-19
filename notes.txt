@@ -1,0 +1,22 @@
+Projeto:
+Sistema de controle de vagas e cadastro direcionado de CVs de candidatos
+
+REQs:
+O usuario deve conseguir:
+    Visualizar as vagas cadastradas
+    editar as vagas existentes
+    excluir vagas abertas
+    fechar uma vaga
+
+MOCK: Referencia visual para o dev // Serve tambem para a validacao do cliente
+//Pode ser interativo ou estático 
+
+Aspas simples no node: strings
+
+Em JS:
+const sum = (n1,n2) => n1+n2;
+sum(1,2)
+3
+
+Em JS:
+`texto` pode usar valor da variavel em ${nome_da_variavel}
